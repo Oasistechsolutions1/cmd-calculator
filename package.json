@@ -1,0 +1,21 @@
+{
+  "name": "ccmmd-calculator",
+  "version": "1.0.1",
+  "description": "hello",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "ccmmd-calculator": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mohammad afzal",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
